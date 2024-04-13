@@ -1,0 +1,11 @@
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\bin\Debug\lab8_student.exe.config
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\bin\Debug\lab8_student.exe
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\bin\Debug\lab8_student.pdb
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.csproj.AssemblyReference.cache
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.frmLogin.resources
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.frmStudent.resources
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.Properties.Resources.resources
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.csproj.GenerateResource.cache
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.csproj.CoreCompileInputs.cache
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.exe
+D:\ProjectDotNet\lab8\lab8_student\lab8_student\obj\Debug\lab8_student.pdb

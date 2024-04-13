@@ -4,6 +4,7 @@ use SinhVien
 drop table Student 
 drop table MonHoc
 drop table CanBo
+drop table Lop
 drop table ThongTinGiangDay
 
 create table Lop 
